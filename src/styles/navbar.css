@@ -1,0 +1,24 @@
+.NavBar {
+    background-color: white;
+    border-bottom: 1px solid grey;
+    display: flex;
+    justify-content: left;
+}
+
+img {
+    max-height: 50px;
+    margin-right: 50px;
+}
+
+.navbar-links {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links-item {
+    display: inline-block;
+    margin: 0;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+}
