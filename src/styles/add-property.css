@@ -1,0 +1,29 @@
+.add-property {
+    padding: 10px;
+}
+
+.add-property-entries {
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+
+input {
+    margin-left: 20px;
+    width: 150px;
+}
+
+select {
+    margin-left: 20px;
+    width: 150px;
+}
+
+button {
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+label {
+    width: 200px;
+}
