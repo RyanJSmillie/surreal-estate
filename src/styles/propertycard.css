@@ -1,0 +1,57 @@
+.propertyCard {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    font-size: 15px;
+    line-height: 26px;
+}
+.propertyIcon {
+    font-size: 25px;
+    color: rgb(104, 5, 104);
+    background-color: rgb(228, 228, 228);
+    padding: 25px;
+}
+
+.propertyInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.property-info-title {
+    font-weight: bold;
+}
+
+.property-info-type {
+    font-style: italic;
+}
+
+.property-icon-bathroom {
+    margin-right: 11px;
+}
+
+.property-icon-bedroom {
+    margin-right: 7px;
+}
+
+.property-icon-price{
+    margin-right: 7px;
+}
+
+.property-icon-email:active {
+    text-decoration: none;
+    color: white;
+}
+
+.property-info-email {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(104, 5, 104);
+    text-align: center;
+    padding: 3px;
+}
+
+.property-icon-email {
+    text-decoration: none;
+    color: white;
+    margin-right: 7px;
+}

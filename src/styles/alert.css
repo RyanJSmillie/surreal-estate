@@ -1,0 +1,17 @@
+.alert-error {
+    margin: 10px;
+    border: 1px solid red;
+    background-color: rgb(247, 172, 172);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.alert-success {
+    margin: 10px;
+    border: 1px solid green;
+    background-color: rgb(162, 237, 162);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
