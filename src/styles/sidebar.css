@@ -16,3 +16,13 @@
     text-decoration: none;
     color: black;
 }
+
+.sidebar-title {
+    text-decoration: underline;
+    margin: 0;
+    padding: 0;
+}
+
+.search-field {
+    max-width: 10vw
+}
